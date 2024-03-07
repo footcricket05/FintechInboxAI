@@ -23,7 +23,7 @@ Make sure you have these essentials:
 
 ```bash
 # Grab the repository
-git clone https://github.com/yourusername/FintechInboxAI.git
+git clone https://github.com/footcricket05/FintechInboxAI.git
 
 # Step into the FintechInboxAI directory
 cd FintechInboxAI
